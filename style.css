@@ -1,0 +1,85 @@
+#bg {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+ -webkit-background-size: cover; 
+  -o-background-size: cover;
+
+}
+body.bg-0 {
+  background-image: url(https://images.pexels.com/photos/248159/pexels-photo-248159.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+
+body.bg-1 {
+  background-image: url(https://images.pexels.com/photos/35599/sunset-field-poppy-sun-priroda.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+
+body.bg-2 {
+  background-image: url(https://images.pexels.com/photos/12567/photo-1444703686981-a3abbc4d4fe3.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+
+body.bg-3 {
+  background-image: url(https://images.pexels.com/photos/2996/parking-parking-lot-underground-garage.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+body.bg-4 {
+  background-image: url(https://images.pexels.com/photos/132037/pexels-photo-132037.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+body.bg-5 {
+  background-image: url(https://images.pexels.com/photos/139975/pexels-photo-139975.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+body.bg-6 {
+  background-image: url(https://images.pexels.com/photos/24402/pexels-photo-24402.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+body.bg-7 {
+  background-image: url(https://images.pexels.com/photos/7976/pexels-photo.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+body.bg-8 {
+  background-image: url(https://images.pexels.com/photos/114735/pexels-photo-114735.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+body.bg-9 {
+  background-image: url(https://images.pexels.com/photos/127160/pexels-photo-127160.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+
+body,
+h1,
+h3,
+p {
+  font-family: 'Lobster', cursive, Helvetica, Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+h1 {
+  font-size: 5em;
+}
+h2 {
+  font-family: 'Lobster', cursive, Helvetica, Arial, sans-serif;
+}
+p {
+  font-size: 2em;
+  font-family: 'Dancing Script', cursive;
+}
+
+.container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+hr {
+  color: white;
+  width: 600px;
+  border-bottom: 1px solid;
+}
+
+.quote-box {
+  opacity: 0.5; 
+  background-color: #e5e5e5;
+  border: 4px solid white;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+.quote-box p {
+  color: black;
+}
